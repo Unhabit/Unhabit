@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **FullStack-Devlopment**
 
-- 📫 How to reach me **nshovo@brooklynsteamcenter.org**
+- 📫 You can contact me at : **nshovo@brooklynsteamcenter.org**
 
 - ⚡ Fun fact **I like competitive fps games**
 
