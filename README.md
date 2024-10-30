@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahid</h1>
-<h3 align="center">I am a junior at the Brooklyn STEAM center. I like games and Im learning programming</h3>
+<h3 align="center">I am a Senior at the Brooklyn STEAM center. I like games and Im learning programming</h3>
 
 - 🌱 I’m currently learning **FullStack-Devlopment**
 
