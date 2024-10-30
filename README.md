@@ -5,7 +5,7 @@
 
 - 📫 You can contact me at : **nshovo@brooklynsteamcenter.org**
 
-- ⚡ Fun fact **I like competitive fps games**
+- ⚡ Fun fact **I like competitive FPS games**
 
 <h3 align="left">Social(s):</h3>
 <p align="left">
